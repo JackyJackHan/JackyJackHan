@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 This is Seung Hun Han, a statistician who has a great interest and passion in Data Science.
 
-<!--
-**JackyJackHan/JackyJackHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Making a maximum effort to become a keen and experienced Data scientist.
 
-Here are some ideas to get you started:
+My main fields of interest are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Natural Language Processing (NLP)
+
+2. Computer Vision
+
+3. Multivariate Statistical Analysis
+
+Languages: Python/R/SAS/MySQL
+
+Always have enough time to discuss baseball related subjects.
+
+Contact: andrewhan@korea.ac.kr
