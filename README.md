@@ -6,7 +6,7 @@ My main fields of interest are:
 
 1. Natural Language Processing (NLP)
 
-2. Computer Vision
+2. Computer Vision Deep Learning
 
 3. Multivariate Statistical Analysis
 
