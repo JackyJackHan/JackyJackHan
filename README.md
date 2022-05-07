@@ -12,6 +12,8 @@ My main fields of interest are:
 
 Languages: Python/R/SAS/MySQL
 
+Tools: Tableau
+
 Always have enough time to discuss baseball related subjects.
 
 Contact: andrewhan@korea.ac.kr
