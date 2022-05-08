@@ -1,4 +1,4 @@
-### Hi there 👋 This is Seung Hun Han, a statistician who has a great interest and passion in Data Science.
+### Hi there 👋 This is Seung Hun Han, a statistician with a great interest and passion in Data Science.
 
 Making a maximum effort to become a keen and experienced Data scientist.
 
