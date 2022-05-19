@@ -6,9 +6,11 @@ My main fields of interest are:
 
 1. Natural Language Processing (NLP)
 
-2. Computer Vision Deep Learning
+2. Computer Vision 
 
-3. Multivariate Statistical Analysis
+3. 
+
+4. Multivariate Statistical Analysis
 
 Languages: Python/R/SAS/MySQL
 
