@@ -8,7 +8,7 @@ My main fields of interest are:
 
 2. Computer Vision 
 
-3. 
+3. Big Data
 
 4. Multivariate Statistical Analysis
 
